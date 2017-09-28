@@ -1,0 +1,6 @@
+#  LocalizationExample
+
+genstrings *swift
+
+
+

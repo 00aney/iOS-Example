@@ -1,0 +1,32 @@
+
+/* Class = "UILabel"; text = "$0.00"; ObjectID = "4AF-BZ-Acz"; */
+"4AF-BZ-Acz.text" = "$0.00";
+
+/* Class = "UILabel"; text = "Tip Percentage:"; ObjectID = "5ib-Uu-iCg"; */
+"5ib-Uu-iCg.text" = "팁 퍼센트:";
+
+/* Class = "UITextField"; placeholder = "$0.00"; ObjectID = "HBL-Xi-45K"; */
+"HBL-Xi-45K.placeholder" = "$0.00";
+
+/* Class = "UILabel"; text = "$0.00"; ObjectID = "Taw-8X-Bsr"; */
+"Taw-8X-Bsr.text" = "$0.00";
+
+/* Class = "UISegmentedControl"; Z1h-ky-g6a.segmentTitles[0] = "10%"; ObjectID = "Z1h-ky-g6a"; */
+"Z1h-ky-g6a.segmentTitles[0]" = "10%";
+
+/* Class = "UISegmentedControl"; Z1h-ky-g6a.segmentTitles[1] = "15%"; ObjectID = "Z1h-ky-g6a"; */
+"Z1h-ky-g6a.segmentTitles[1]" = "15%";
+
+/* Class = "UISegmentedControl"; Z1h-ky-g6a.segmentTitles[2] = "20%"; ObjectID = "Z1h-ky-g6a"; */
+"Z1h-ky-g6a.segmentTitles[2]" = "20%";
+
+/* Class = "UILabel"; text = "Bill:"; ObjectID = "gzq-cq-AxH"; */
+"gzq-cq-AxH.text" = "Bill:";
+
+/* Class = "UILabel"; text = "Tip:"; ObjectID = "tBr-SS-ps0"; */
+"tBr-SS-ps0.text" = "팁:";
+
+/* Class = "UILabel"; text = "Total:"; ObjectID = "zbH-dx-J2H"; */
+"zbH-dx-J2H.text" = "합계:";
+
+"MNj-ad-tnH.text" = "감사합니다.";
